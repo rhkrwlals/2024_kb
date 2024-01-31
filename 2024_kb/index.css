@@ -112,7 +112,7 @@ label[for] {
     width: 24px;
     height: 24px;
     display: inline-block;
-    background-image: url(/img/img_kabang_220615.png);
+    background-image: url(../img/img_kabang_220615.png);
 }
 
 .ico-1 {
@@ -469,7 +469,7 @@ body {
 
 .top-banner-box-6-wrap {
     height: 720px;
-    background: #fff url(/img/home_map.png) no-repeat -12% 50%;
+    background: #fff url(../img/home_map.png) no-repeat -12% 50%;
 }
 .top-banner-box-6 .img-box {
     width: 408px;
@@ -913,7 +913,7 @@ body {
 }
 
 .ico-sns {
-    background-image: url(/img/ico_sns.png);
+    background-image: url(./img/ico_sns.png);
 }
 
 .ico-sns.ico-sns-facebook {
